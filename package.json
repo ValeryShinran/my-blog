@@ -1,11 +1,12 @@
 {
-  "name": "vite-press-template",
+  "name": "my-blog",
   "version": "1.0.0",
-  "description": "vite-press 模板",
+  "description": "我的博客",
   "main": "index.js",
-  "repository": "https://github.com/LibraHeresy/vite-press-template.git",
-  "author": "周杨 <1141614570@qq.com>",
+  "repository": "https://github.com/ValeryShinran/my-blog.git",
+  "author": "ValeryShinran <627704321@qq.com>",
   "license": "MIT",
+  "accessToken": "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",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",

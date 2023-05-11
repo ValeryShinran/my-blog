@@ -7,9 +7,9 @@
  * @Desc: 描述
  */
 const config = {
-  title: 'Author', // 网页左上角标题
-  titleTemplate: '作者', // 页签右标题
-  base: '/vite-press-template/',
+  title: '归零', // 网页左上角标题
+  titleTemplate: 'ValeryShinran', // 页签右标题
+  base: '/my-blog/',
   description: 'Blog', // 描述
   lastUpdated: true, // 最后更新时间
   themeConfig: {
@@ -27,7 +27,7 @@ const config = {
     // 页脚
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present Author'
+      copyright: 'Copyright © 2023-present ValeryShinran'
     },
     // 搜索框
     search: {
@@ -37,7 +37,7 @@ const config = {
     lastUpdatedText: "最后更新时间",
     // 右上角社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Author' }
+      { icon: 'github', link: 'https://github.com/ValeryShinran' }
     ],
     // 翻页按钮文本
     docFooter: {
