@@ -6,7 +6,6 @@
   "repository": "https://github.com/ValeryShinran/my-blog.git",
   "author": "ValeryShinran <627704321@qq.com>",
   "license": "MIT",
-  "accessToken": "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",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",

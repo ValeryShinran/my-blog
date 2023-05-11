@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: Author's # 首页左侧主标题
+  name: ValeryShinran's # 首页左侧主标题
   text: Blog # 首页左侧次标题
-  tagline: 补充信息 # 首页左侧补充信息
+  tagline: 记录美好生活 # 首页左侧补充信息
   image: # 首页右侧图
-    src: 'https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png'
+    src: 'https://avatars.githubusercontent.com/u/133196762?v=4'
     alt: 网站的 logo 图片
   actions: # 首页左侧标题下按钮
     - theme: brand
@@ -14,7 +14,7 @@ hero:
       link: /blog/home
     - theme: alt
       text: 我的 github
-      link: https://github.com/Author
+      link: https://github.com/ValeryShinran
 features: # 首页下方推荐盒子
   - icon: 🛠️
     title: 测试一
