@@ -1,0 +1,19 @@
+{
+  "name": "vite-press-template",
+  "version": "1.0.0",
+  "description": "vite-press 模板",
+  "main": "index.js",
+  "repository": "https://github.com/LibraHeresy/vite-press-template.git",
+  "author": "周杨 <1141614570@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "gitalk": "https://github.com/LibraHeresy/gitalk.git",
+    "vitepress": "^1.0.0-alpha.75",
+    "vue": "^3.2.47"
+  }
+}
