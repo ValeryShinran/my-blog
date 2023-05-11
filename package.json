@@ -13,7 +13,9 @@
   },
   "devDependencies": {
     "gitalk": "https://github.com/LibraHeresy/gitalk.git",
-    "vitepress": "^1.0.0-alpha.75",
-    "vue": "^3.2.47"
+    "vitepress": "^1.0.0-alpha.72"
+  },
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^24.1.0"
   }
 }
