@@ -2,14 +2,14 @@
  * @Author: zhouyang
  * @Date: 2023-05-11 11:23:11
  * @LastEditors: zhouyang
- * @LastEditTime: 2023-05-11 11:24:54
+ * @LastEditTime: 2023-05-11 14:14:45
  * @FilePath: \vite-press-template\docs\.vitepress\config.js
  * @Desc: 描述
  */
 const config = {
   title: 'Author', // 网页左上角标题
   titleTemplate: '作者', // 页签右标题
-  base: '/vite-press/',
+  base: '/vite-press-template/',
   description: 'Blog', // 描述
   lastUpdated: true, // 最后更新时间
   themeConfig: {
